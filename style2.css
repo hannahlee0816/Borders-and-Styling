@@ -1,1 +1,193 @@
+body {
+  padding: 0;
+  margin: 10;
+}
+
+ul {
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background-color: #A07D90;
+  position: fixed;
+  top: 0%
+}
+
+li {
+  display: block;
+  float: left;
+}
+
+li a {
+  display: block;
+  text-decoration: none;
+  padding: 5px 50px;
+  color: white;
+}
+
+.navigation-bar {
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background-color: #E9D6EC;
+  position: fixed;
+  top: 0%;
+  font-size: 20px; 
+}
+
+.navigation-container {
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background-color: #E9D6EC;
+  position: fixed;
+  top: 0%;
+}
+
+.one {
+  height: 100vh;
+  width: 100%;
+  border: white 5px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #5F6063
+}
+
+.onesub {
+  width: 50%;
+  border: white 3px solid;
+  background-color: #677D89
+}
+
+.two {
+  height: 100vh;
+  width: 100%;
+  border: white 5px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #5F6063
+}
+
+.twosub {
+  width: 50%;
+  border: white 3px dotted;
+  background-color: #677D89
+}
+
+.three {
+  height: 100vh;
+  width: 100%;
+  border: white 5px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #5F6063
+}
+
+.threesub {
+  width: 50%;
+  border: white 3px dashed;
+  background-color: #677D89
+}
+
+.four {
+  height: 100vh;
+  width: 100%;
+  border: white 5px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #5F6063
+}
+
+.foursub {
+  width: 50%;
+  border: white 6px double;
+  background-color: #677D89
+}
+
+.five {
+  height: 100vh;
+  width: 100%;
+  border: white 5px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #5F6063
+}
+
+.fivesub {
+  width: 50%;
+  border: white 6px groove;
+  background-color: #677D89
+}
+
+.six {
+  height: 100vh;
+  width: 100%;
+  border: white 5px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #5F6063
+}
+
+.sixsub {
+  width: 50%;
+  border: white 6px ridge;
+  background-color: #677D89
+}
+
+.seven {
+  height: 100vh;
+  width: 100%;
+  border: white 5px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #5F6063
+}
+
+.sevensub {
+  width: 50%;
+  border: white 6px inset;
+  background-color: #677D89
+}
+
+.eight {
+  height: 100vh;
+  width: 100%;
+  border: white 5px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #5F6063
+}
+
+.eightsub {
+  width: 50%;
+  border: white 6px outset;
+  background-color: #677D89
+}
+
+h1 {
+  text-align: center;
+  color: white
+}
+
+h4 {
+  text-align: center;
+  color: white
+}
+
+a:hover {
+  background-color: #677D89;
+}
 
