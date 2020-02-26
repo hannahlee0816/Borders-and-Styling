@@ -1,11 +1,41 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  
-  <title> Borders and Styling </title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title> Borders and Styling Home</title>
 </head>
 <body>
+  <font face="Courier New">
+  <div class="navigation-bar">
+        <div id="navigation-container">
+            <img src="Persuasive Project.png"> 
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Borders</a></li>
+                <li><a href="#">Styling</a></li>
+            
+             
+              <li class="names">  Emily Butman, Natalie Dahl, Allison Acosta, Hannah Lee, Nava Mavanzati </li>
+              
+            </ul> 
+          
+        </div>
+    </div>
+ 
+    </body>
+  <body>
+    
+  <font size="5" face="Courier New">
+  <div class="one">
+    <br><h1 class="heading"> BORDERS AND STYLING    
+   
+    </h1>
+    </div>
   
+  
+   
 </body>
 </html>
 
