@@ -1,1 +1,86 @@
 
+html{
+  overflow-x: hidden;
+}
+
+body {
+  padding: 0;
+  margin: 10;
+  background-color:#5F6063;
+
+}
+
+ul {
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background-color: #A07D90;
+  position: fixed;
+  top: 0%;
+  color: white;
+}
+
+li {
+  display: block;
+  float: left;
+}
+
+li a {
+  display: block;
+  text-decoration: none;
+  padding: 5px 50px;
+  color: white;
+}
+.names{
+  float: right;
+}
+.navigation-bar {
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background-color: #E9D6EC;
+  position: fixed;
+  top: 0%;
+  font-size: 20px; 
+}
+
+.navigation-container {
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background-color: #E9D6EC;
+  position: fixed;
+  top: 0%;
+}
+
+.one {
+  height: 100vh;
+  width: 100%;
+  border: white 5px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #677D89;
+  text-align: center;
+}
+
+.onesub {
+  width: 50%;
+  border: white 9px double;
+  background-color: #5F6063;
+}
+
+
+a:hover {
+  background-color: #677D89;
+}
+
+h1{
+  color: white;
+}
